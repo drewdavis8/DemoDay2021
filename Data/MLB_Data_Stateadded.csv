@@ -1,0 +1,31 @@
+Year,Team,Nickname,City,State,State Abbreviation,Price,Size,Price per Ounce,Wins,Losses,Average # of drinks per game,Average Spent per Game (USD),,Address,lat,long
+2018,Arizona Diamondbacks,Diamondbacks,Phoenix,Arizona,AZ,4,14,0.29,82,80,3.4,$29.00 ,,"2000 Gene Autry Way, Anaheim, CA. 92806",33.799572,-117.889031
+2018,Atlanta Braves,Braves,Atlanta,Georgia,GA,5,12,0.42,90,72,4,$32.00 ,,"P.O. Box 2095, Phoenix, AZ. 85001",33.452922,-112.038669
+2018,Baltimore Orioles,Orioles,Baltimore,Maryland,MD,4,12,0.33,47,115,3.5,$31.00 ,,"P.O. Box 4064, Atlanta, GA. 30302",33.74691,-84.391239
+2018,Boston Red Sox,Red Sox,Boston,Massachusetts,MA,8,12,0.67,95,68,3.2,$33.00 ,,"333 W. Camden Street, Baltimore, MD. 21201",39.285243,-76.620103
+2018,Chicago Cubs,Cubs,Chicago,Illinois,IL,9,20,0.45,108,54,3.4,$45.00 ,,"4 Yawkey Way, Boston, MA 02215",42.346613,-71.098817
+2018,Chicago White Sox,White Sox,Chicago,Illinois,IL,7,16,0.44,62,100,4.2,$46.00 ,,"1060 Addison Street, Chicago, IL 60616",41.947201,-87.656413
+2018,Cincinnati Reds,Reds,Cincinnati,Ohio,OH,6.25,14,0.45,67,95,3.8,$40.00 ,,"333 W. 35th Street, Chicago, IL 60616",41.830883,-87.635083
+2018,Cleveland Indians,Indians,Cleveland,Ohio,OH,5,12,0.42,91,71,3.8,$35.00 ,,"100 Cinergy Field, Cincinnati, OH 45202",39.107183,-84.507713
+2018,Colorado Rockies,Rockies,Denver,Colorado,CO,3,12,0.25,91,72,3.6,$40.00 ,,"2401 Ontario Street, Cleveland, OH 44115",41.495149,-81.68709
+2018,Detroit Tigers,Tigers,Detroit,Michigan,MI,5,12,0.42,64,98,3.5,$35.00 ,,"Coors Field, 2001 Blake Street, Denver, CO 80205-2000",39.75698,-104.965329
+2018,Houston Astros,Astros,Houston,Texas,TX,6,14,0.43,103,59,2.8,$37.00 ,,"Comerica Park, 2100 Woodward Ave., Detroit, MI 48201",42.346354,-83.059619
+2018,Kansas City Royals,Royals,Kansas City,Missouri,MO,4,12,0.33,58,104,3.3,$25.00 ,,"2269 NW 199th Street, Miami, FL 33056",25.954428,-80.238164
+2018,Los Angeles Angels,Angels,Anaheim,California,CA,4.5,12,0.38,80,82,2.8,$49.00 ,,"P.O. Box 288, Houston, TX 77001-0288",29.76045,-95.369784
+2018,Los Angeles Dodgers,Dodgers,Los Angeles,California,CA,6.25,16,0.39,92,71,2.7,$31.00 ,,"P.O. Boz 419969, Kansas City, MO 64141",39.10222,-94.583559
+2018,Miami Marlins,Marlins,Miami,Florida,FL,6,12,0.5,63,98,3.3,$31.00 ,,"1000 Elysian Park Ave., Los Angeles, CA 90012",34.072437,-118.246879
+2018,Milwaukee Brewers,Brewers,Milwaukee,Wisconsin,WI,7,16,0.44,96,67,3.5,$35.00 ,,"P.O. Box 3099, Milwaukee, WI 53201-3099",43.04205,-87.905599
+2018,Minnesota Twins,Twins,Minneapolis,Minnesota,MN,8.5,20,0.43,78,84,3.5,$29.00 ,,"501 Chicago Ave. S., Minneapolis, MN 55415",44.974346,-93.259616
+2018,New York Mets,Mets,New York,New York,NY,10.5,20,0.53,77,85,3.5,$53.00 ,,"1500 South Capitol Street SE, Washington, DC",38.87,-77.01
+2018,New York Yankees,Yankees,New York,New York,NY,6,12,0.5,100,62,3.1,$29.00 ,,"Roosevelt Ave & 126th Street, New York, NY 11368",40.75535,-73.843219
+2018,Oakland Athletics,Athletics,Oakland,California,CA,5.5,12,0.46,97,65,2.5,$28.00 ,,"Yankee Stadium, E. 161 Street & River Ave., New York, NY 10451",40.819782,-73.929939
+2018,Philadelphia Phillies,Phillies,Philadelphia,Pennsylvania,PA,6,12,0.5,80,82,2.4,$23.00 ,,"Oakland Coliseum, 700 Coliseum Way, Oakland, Ca 94621-1918",37.74923,-122.196487
+2018,Pittsburgh Pirates,Pirates,Pittsburgh,Pennsylvania,PA,6,16,0.38,82,79,3,$34.00 ,,"P.O. Box 7575, Philadelphia, PA 19101",39.952313,-75.162392
+2018,San Diego Padres,Padres,San Diego,California,CA,5,12,0.42,66,96,3.7,$27.00 ,,"600 Stadium Circle, Pittsburgh, PA 15212",40.461503,-80.008924
+2018,San Francisco Giants,Giants,San Francisco,California,CA,8.25,14,0.59,73,89,2.7,$25.00 ,,"250 Stadium Plaza, St. Louis, MO 63102",38.629683,-90.188247
+2018,Seattle Mariners,Mariners,Seattle,Washington,WA,5,12,0.42,89,73,2.9,$29.00 ,,"P.O. Box 2000, San Diego, CA 92112-2000",32.752148,-117.143635
+2018,St. Louis Cardinals,Cardinals,Saint Louis,Missouri,MO,5,12,0.42,88,74,2.8,$28.00 ,,"Pacific Bell Park, 24 Willie Mays Plaza, San Francisco, CA 94107",37.77987,-122.389754
+2018,Tampa Bay Rays,Rays,Tampa,Florida,FL,5,12,0.42,90,72,2.9,$28.00 ,,"P.O. Box 41000, 411 First Ave. S., Seattle, WA 98104",47.60174,-122.330829
+2018,Texas Rangers,Rangers,Arlington,Texas,TX,6,16,0.38,67,95,2.9,$22.00 ,,"1 Tropicana Drive, St. Petersburg, FL 33705",27.768487,-82.648191
+2018,Toronto Blue Jays,Blue Jays,Toronto,Canada,,5.67,14,0.41,73,89,3,$25.00 ,,"1000 Ballpark Way, Arlington, TX 76011",32.750156,-97.081117
+2018,Washington Nationals,Nationals,Washington,"Washington, D.C.",DC,7,14,0.5,82,80,3.6,$45.00 ,,"1 Blue Jay Way, Suite 3200, Toronto, ONT M5V 1J1",43.641653,-79.3917
